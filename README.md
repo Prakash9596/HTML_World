@@ -2,6 +2,7 @@
 Learning HTML5
 https://github.com/Prakash9596/HTML_World.git
 
+--> git commands:
 1. git clone https://github.com/Prakash9596/HTML_World.git (1)
 2. git status (2)
 3. git add . or git add filename (3)
@@ -21,3 +22,5 @@ https://github.com/Prakash9596/HTML_World.git
 16. git fetch (will tell us the difference between local and central repo)
 17. git merge (to merge the change)
 18. git pull (to sync local with central repo --> this is comnination of fetch and merge)
+
+--> merge conflicts command:
