@@ -2,7 +2,7 @@
 Learning HTML5
 https://github.com/Prakash9596/HTML_World.git
 <!-- (Ctrl+K Ctrl+F) To Format the selected text -->
-<!-- (Ctrl+K Ctrl+T) To Change the theme -->
+<!-- (Ctrl+K Ctrl+T) To Change the theme  -->
 
 --> git commands:
 1. git clone https://github.com/Prakash9596/HTML_World.git (1)
